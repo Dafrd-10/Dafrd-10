@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Daniel, an aspiring software engineer.
 <!--
 **Dafrd-10/Dafrd-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
